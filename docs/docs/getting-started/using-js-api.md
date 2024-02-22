@@ -3,10 +3,10 @@ sidebar_position: 1
 ---
 
 # Typescript/Javascript
-
-1. go to account settings and create an API Key for CLI&nbsp; [open](http://google.com)
-2. copy the api key somewhere safe, it will be required in subsequent step
-3. start sending data using one of the following methods
+Here's how to integrate: 
+1. Navigate to account settings and generate an API Key for CLI. 
+2. Copy the API key, as it will be needed for the next step.
+3. Begin sending the data through one of the available methods.
 
 ## Setup using typescript/javascript
 
